@@ -2,6 +2,17 @@
 - This is a python trainer for the game FTL: Faster Than Light. It has a few basic functions and options that can be built upon in the future.
 ![](https://imgur.com/a/LdZfdwm)
 
+## Current Features
+- Set Scrap
+- Set Hull
+- Set Fuel
+- Set Missiles
+- Heal Crew
+- Kill Enemy Crew
+- Invincibility
+- Super Weapons
+- Infinite Drones
+
 ## Installation and Usage
 - Clone the repository by either clicking `Code -> Download as zip` or by running the command `git clone https://github.com/K0Stek122/ftlcheat`
 - Run frontend.py with either `py frontend.py` or `python frontend.py` depending on your install.
